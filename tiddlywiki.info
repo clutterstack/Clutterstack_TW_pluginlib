@@ -7,12 +7,12 @@
         "clutterstack/omnitools",
         "clutterstack/omniteaser",
         "clutterstack/tagbrowse",
-        "clutterstack/dragtags"
+        "clutterstack/dragtags",
+        "clutterstack/clutterstack_theme"
 	],
 	"themes": [
 		"tiddlywiki/vanilla",
-		"tiddlywiki/snowwhite",
-        "clutterstack/clutterstack_theme"
+		"tiddlywiki/snowwhite"
 	],
 	"build": {
 		"index": [
