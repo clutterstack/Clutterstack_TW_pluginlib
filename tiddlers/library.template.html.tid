@@ -18,7 +18,11 @@ title: $:/plugins/tiddlywiki/pluginlibrary/library.template.html
 
 <h1>HelloThere</h1>
 
-<p> This is the plugin library for Clutterstack plugins. It is not intended to be opened directly in the browser. Don't forget to back up your data before installing plugins.</p>
+<p> This is the plugin library for Clutterstack plugins. It is not intended to be opened directly in the browser. 
+
+These plugins are under development, and may change significantly. 
+
+Don't forget to back up your data before installing plugins.</p>
 
 <p>See <a href="https://tiddlywiki.com/" target="_blank">https://tiddlywiki.com/</a> for details of how to install plugins.</p>
 
